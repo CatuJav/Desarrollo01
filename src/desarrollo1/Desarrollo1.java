@@ -18,6 +18,7 @@ public class Desarrollo1 {
         // TODO code application logic here
         System.out.println("Hola");
         //jc
+        System.out.println("DOS");
     }
     
 }
